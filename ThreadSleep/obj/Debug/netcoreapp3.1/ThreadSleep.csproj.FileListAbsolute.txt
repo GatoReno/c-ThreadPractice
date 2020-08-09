@@ -1,0 +1,13 @@
+C:\Users\erpre\source\repos\ThreadsRehearsel\ThreadSleep\bin\Debug\netcoreapp3.1\ThreadSleep.exe
+C:\Users\erpre\source\repos\ThreadsRehearsel\ThreadSleep\bin\Debug\netcoreapp3.1\ThreadSleep.deps.json
+C:\Users\erpre\source\repos\ThreadsRehearsel\ThreadSleep\bin\Debug\netcoreapp3.1\ThreadSleep.runtimeconfig.json
+C:\Users\erpre\source\repos\ThreadsRehearsel\ThreadSleep\bin\Debug\netcoreapp3.1\ThreadSleep.runtimeconfig.dev.json
+C:\Users\erpre\source\repos\ThreadsRehearsel\ThreadSleep\bin\Debug\netcoreapp3.1\ThreadSleep.dll
+C:\Users\erpre\source\repos\ThreadsRehearsel\ThreadSleep\bin\Debug\netcoreapp3.1\ThreadSleep.pdb
+C:\Users\erpre\source\repos\ThreadsRehearsel\ThreadSleep\obj\Debug\netcoreapp3.1\ThreadSleep.csprojAssemblyReference.cache
+C:\Users\erpre\source\repos\ThreadsRehearsel\ThreadSleep\obj\Debug\netcoreapp3.1\ThreadSleep.AssemblyInfoInputs.cache
+C:\Users\erpre\source\repos\ThreadsRehearsel\ThreadSleep\obj\Debug\netcoreapp3.1\ThreadSleep.AssemblyInfo.cs
+C:\Users\erpre\source\repos\ThreadsRehearsel\ThreadSleep\obj\Debug\netcoreapp3.1\ThreadSleep.csproj.CoreCompileInputs.cache
+C:\Users\erpre\source\repos\ThreadsRehearsel\ThreadSleep\obj\Debug\netcoreapp3.1\ThreadSleep.dll
+C:\Users\erpre\source\repos\ThreadsRehearsel\ThreadSleep\obj\Debug\netcoreapp3.1\ThreadSleep.pdb
+C:\Users\erpre\source\repos\ThreadsRehearsel\ThreadSleep\obj\Debug\netcoreapp3.1\ThreadSleep.genruntimeconfig.cache

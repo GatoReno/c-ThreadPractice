@@ -1,0 +1,13 @@
+C:\Users\erpre\source\repos\ThreadsRehearsel\ThreadsRehearsel\bin\Debug\netcoreapp3.1\ThreadsRehearsel.exe
+C:\Users\erpre\source\repos\ThreadsRehearsel\ThreadsRehearsel\bin\Debug\netcoreapp3.1\ThreadsRehearsel.deps.json
+C:\Users\erpre\source\repos\ThreadsRehearsel\ThreadsRehearsel\bin\Debug\netcoreapp3.1\ThreadsRehearsel.runtimeconfig.json
+C:\Users\erpre\source\repos\ThreadsRehearsel\ThreadsRehearsel\bin\Debug\netcoreapp3.1\ThreadsRehearsel.runtimeconfig.dev.json
+C:\Users\erpre\source\repos\ThreadsRehearsel\ThreadsRehearsel\bin\Debug\netcoreapp3.1\ThreadsRehearsel.dll
+C:\Users\erpre\source\repos\ThreadsRehearsel\ThreadsRehearsel\bin\Debug\netcoreapp3.1\ThreadsRehearsel.pdb
+C:\Users\erpre\source\repos\ThreadsRehearsel\ThreadsRehearsel\obj\Debug\netcoreapp3.1\ThreadsRehearsel.csprojAssemblyReference.cache
+C:\Users\erpre\source\repos\ThreadsRehearsel\ThreadsRehearsel\obj\Debug\netcoreapp3.1\ThreadsRehearsel.AssemblyInfoInputs.cache
+C:\Users\erpre\source\repos\ThreadsRehearsel\ThreadsRehearsel\obj\Debug\netcoreapp3.1\ThreadsRehearsel.AssemblyInfo.cs
+C:\Users\erpre\source\repos\ThreadsRehearsel\ThreadsRehearsel\obj\Debug\netcoreapp3.1\ThreadsRehearsel.csproj.CoreCompileInputs.cache
+C:\Users\erpre\source\repos\ThreadsRehearsel\ThreadsRehearsel\obj\Debug\netcoreapp3.1\ThreadsRehearsel.dll
+C:\Users\erpre\source\repos\ThreadsRehearsel\ThreadsRehearsel\obj\Debug\netcoreapp3.1\ThreadsRehearsel.pdb
+C:\Users\erpre\source\repos\ThreadsRehearsel\ThreadsRehearsel\obj\Debug\netcoreapp3.1\ThreadsRehearsel.genruntimeconfig.cache
