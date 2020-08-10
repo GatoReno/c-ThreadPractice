@@ -58,6 +58,8 @@ namespace ThreadSleep
                 return Balance;
             }
 
+
+            // protect data and thread life
             lock (acctLock)
             {
                 if (Balance >= ammount)
