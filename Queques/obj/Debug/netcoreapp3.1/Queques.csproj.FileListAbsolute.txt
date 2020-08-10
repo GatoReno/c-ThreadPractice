@@ -1,0 +1,12 @@
+C:\Users\erpre\source\repos\ThreadsRehearsel\Queques\bin\Debug\netcoreapp3.1\Queques.exe
+C:\Users\erpre\source\repos\ThreadsRehearsel\Queques\bin\Debug\netcoreapp3.1\Queques.deps.json
+C:\Users\erpre\source\repos\ThreadsRehearsel\Queques\bin\Debug\netcoreapp3.1\Queques.runtimeconfig.json
+C:\Users\erpre\source\repos\ThreadsRehearsel\Queques\bin\Debug\netcoreapp3.1\Queques.runtimeconfig.dev.json
+C:\Users\erpre\source\repos\ThreadsRehearsel\Queques\bin\Debug\netcoreapp3.1\Queques.dll
+C:\Users\erpre\source\repos\ThreadsRehearsel\Queques\bin\Debug\netcoreapp3.1\Queques.pdb
+C:\Users\erpre\source\repos\ThreadsRehearsel\Queques\obj\Debug\netcoreapp3.1\Queques.AssemblyInfoInputs.cache
+C:\Users\erpre\source\repos\ThreadsRehearsel\Queques\obj\Debug\netcoreapp3.1\Queques.AssemblyInfo.cs
+C:\Users\erpre\source\repos\ThreadsRehearsel\Queques\obj\Debug\netcoreapp3.1\Queques.csproj.CoreCompileInputs.cache
+C:\Users\erpre\source\repos\ThreadsRehearsel\Queques\obj\Debug\netcoreapp3.1\Queques.dll
+C:\Users\erpre\source\repos\ThreadsRehearsel\Queques\obj\Debug\netcoreapp3.1\Queques.pdb
+C:\Users\erpre\source\repos\ThreadsRehearsel\Queques\obj\Debug\netcoreapp3.1\Queques.genruntimeconfig.cache
