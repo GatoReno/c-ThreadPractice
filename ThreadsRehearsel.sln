@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionaries", "Dictionarie
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queques", "Queques\Queques.csproj", "{BEB661C5-B313-4758-A6D5-2F4115766060}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stacks", "Stacks\Stacks.csproj", "{3FBDEE80-90BB-4779-917A-79A2E2B7953D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{BEB661C5-B313-4758-A6D5-2F4115766060}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BEB661C5-B313-4758-A6D5-2F4115766060}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BEB661C5-B313-4758-A6D5-2F4115766060}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FBDEE80-90BB-4779-917A-79A2E2B7953D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FBDEE80-90BB-4779-917A-79A2E2B7953D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FBDEE80-90BB-4779-917A-79A2E2B7953D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FBDEE80-90BB-4779-917A-79A2E2B7953D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
