@@ -1,0 +1,13 @@
+C:\Users\erpre\source\repos\ThreadsRehearsel\Dictionaries\bin\Debug\netcoreapp3.1\Dictionaries.exe
+C:\Users\erpre\source\repos\ThreadsRehearsel\Dictionaries\bin\Debug\netcoreapp3.1\Dictionaries.deps.json
+C:\Users\erpre\source\repos\ThreadsRehearsel\Dictionaries\bin\Debug\netcoreapp3.1\Dictionaries.runtimeconfig.json
+C:\Users\erpre\source\repos\ThreadsRehearsel\Dictionaries\bin\Debug\netcoreapp3.1\Dictionaries.runtimeconfig.dev.json
+C:\Users\erpre\source\repos\ThreadsRehearsel\Dictionaries\bin\Debug\netcoreapp3.1\Dictionaries.dll
+C:\Users\erpre\source\repos\ThreadsRehearsel\Dictionaries\bin\Debug\netcoreapp3.1\Dictionaries.pdb
+C:\Users\erpre\source\repos\ThreadsRehearsel\Dictionaries\obj\Debug\netcoreapp3.1\Dictionaries.csprojAssemblyReference.cache
+C:\Users\erpre\source\repos\ThreadsRehearsel\Dictionaries\obj\Debug\netcoreapp3.1\Dictionaries.AssemblyInfoInputs.cache
+C:\Users\erpre\source\repos\ThreadsRehearsel\Dictionaries\obj\Debug\netcoreapp3.1\Dictionaries.AssemblyInfo.cs
+C:\Users\erpre\source\repos\ThreadsRehearsel\Dictionaries\obj\Debug\netcoreapp3.1\Dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\erpre\source\repos\ThreadsRehearsel\Dictionaries\obj\Debug\netcoreapp3.1\Dictionaries.dll
+C:\Users\erpre\source\repos\ThreadsRehearsel\Dictionaries\obj\Debug\netcoreapp3.1\Dictionaries.pdb
+C:\Users\erpre\source\repos\ThreadsRehearsel\Dictionaries\obj\Debug\netcoreapp3.1\Dictionaries.genruntimeconfig.cache
