@@ -19,6 +19,8 @@ namespace Stacks
                 Console.WriteLine($"stack : {item}");
             }
 
+            // u can use peek, pop to delete and contains
+
             Console.ReadLine();
 
         }

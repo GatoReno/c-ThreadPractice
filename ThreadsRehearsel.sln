@@ -7,13 +7,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreadsRehearsel", "Threads
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreadSleep", "ThreadSleep\ThreadSleep.csproj", "{A1F776C8-FD1A-42F4-B724-F2B6F0EEBDFE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{CD3AF12C-530E-4391-848F-55D7B8D55FA7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections", "Collections\Collections.csproj", "{CD3AF12C-530E-4391-848F-55D7B8D55FA7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionaries", "Dictionaries\Dictionaries.csproj", "{D1B8CD45-7A65-4072-9FE0-227B3F4A63B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dictionaries", "Dictionaries\Dictionaries.csproj", "{D1B8CD45-7A65-4072-9FE0-227B3F4A63B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queques", "Queques\Queques.csproj", "{BEB661C5-B313-4758-A6D5-2F4115766060}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Queques", "Queques\Queques.csproj", "{BEB661C5-B313-4758-A6D5-2F4115766060}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stacks", "Stacks\Stacks.csproj", "{3FBDEE80-90BB-4779-917A-79A2E2B7953D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stacks", "Stacks\Stacks.csproj", "{3FBDEE80-90BB-4779-917A-79A2E2B7953D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClass", "AbstractClass\AbstractClass.csproj", "{E2FBE998-9F38-4B9D-9F21-4A4341678F46}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{3FBDEE80-90BB-4779-917A-79A2E2B7953D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FBDEE80-90BB-4779-917A-79A2E2B7953D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3FBDEE80-90BB-4779-917A-79A2E2B7953D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2FBE998-9F38-4B9D-9F21-4A4341678F46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2FBE998-9F38-4B9D-9F21-4A4341678F46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2FBE998-9F38-4B9D-9F21-4A4341678F46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2FBE998-9F38-4B9D-9F21-4A4341678F46}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
